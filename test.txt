@@ -1,1 +1,2 @@
 this is testing for jenkins Pipelinesetup for auto CI and now to deloy to another server and test CI
+this is used in jenkins pipeline via branch doing 
